@@ -17,3 +17,4 @@ Open in browser. API polls localhost:18789/status (local OpenClaw).
 
 ## Customization
 Edit index.html JS fetch URL.
+## v2.1
